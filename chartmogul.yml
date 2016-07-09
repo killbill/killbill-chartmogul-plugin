@@ -1,0 +1,3 @@
+:chartmogul:
+  :account_token: <%= ENV['ACCOUNT_TOKEN'] %>
+  :secret_key: <%= ENV['SECRET_KEY'] %>
