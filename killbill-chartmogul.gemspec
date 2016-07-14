@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
 
   s.rdoc_options << '--exclude' << '.'
 
-  s.add_dependency 'killbill', '~> 8.0'
+  s.add_dependency 'killbill', '~> 8.1'
 
   s.add_dependency 'chartmogul-ruby', '~> 0.1'
 
